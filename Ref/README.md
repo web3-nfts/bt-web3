@@ -36,3 +36,16 @@
 
 ###  Ropsten testnet faucet
 -   [https://faucet.egorfine.com/](https://faucet.egorfine.com/)
+
+- metamask-2 acc1  
+```
+0x9cCc10B80f1b7854C96c63330b77080509b7f505
+```
+- metamask-1 acc1 
+```
+0x4a230004f5e15C5ab4596b4E0A9eA67EDd0B5f04
+```
+- metamask-1 acc1 
+```
+0x34ec74918C12EA0BA4808Ddb2F3243378b7bD00c
+```
